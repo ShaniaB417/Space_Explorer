@@ -1,6 +1,6 @@
 # Space_Explorer
 
-Webpage that would provide infromation about Space, 
+Webpage that would provide information about Space, 
 made with Three.js and frontend tool Vite 
 
 
